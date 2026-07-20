@@ -5,7 +5,7 @@ import { defineConfig } from "vite";
 // https://vitejs.dev/config/
 export default defineConfig(() => ({
   server: {
-    host: "true",
+    host: "localhost",
     port: 8080,
     hmr: {
       overlay: false,
