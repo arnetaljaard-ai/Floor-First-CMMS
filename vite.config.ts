@@ -1,5 +1,6 @@
 // @ts-ignore: In some editor environments the plugin package types may be missing
 import react from "@vitejs/plugin-react";
+// @ts-ignore: In some editor environments the vite package types may be missing
 import { defineConfig } from "vite";
 
 // https://vitejs.dev/config/
